@@ -6,4 +6,4 @@ To get accurate results enter the length len = I*C.
 C = number of products container in single page a.k.a number of products in single page.
 I = number of images in a single product container.
 
-Note: ['Need update to find the root parent from final o/p recursively']
+Note:  ['Need update to find the root parent from final o/p recursively']
