@@ -26,9 +26,9 @@ Note: ['need to find a way to extract dynamic loading website. mark 2 cannot get
 
 }
 
-_**mark 2**_
+_**mark 2 sel**_
 {
 
-selenuium version of mark 2
+Note: ['might work of dynamic loading sites.']
 
 }
