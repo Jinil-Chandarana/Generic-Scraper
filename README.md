@@ -25,3 +25,10 @@ update : removes the noise and returns pin-point location container which contai
 Note: ['need to find a way to extract dynamic loading website. mark 2 cannot get html code for every website.']
 
 }
+
+_**mark 2**_
+{
+
+selenuium version of mark 2
+
+}
